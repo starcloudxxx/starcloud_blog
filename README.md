@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
+heroText: 星云
+tagline: 希望有一天博客可以自由分享生活，加油努力快一点吧。
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
